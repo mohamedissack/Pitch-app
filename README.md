@@ -13,9 +13,9 @@ See all blogs Create an account Log in Create a blog Comment on a blog See comme
 
 Getting started Prerequisites python3.8 virtual environment pip Cloning In your terminal:
 
-$ git clone https://github.com/mohamedissack/one-minute-pitch.git $ cd pitches Running the Application Install virtual environment using $ python3.8 -m venv --without-pip virtual
+1.$ git clone https://github.com/mohamedissack/one-minute-pitch.git $ cd pitches Running the Application Install virtual environment using $ python3.8 -m venv --without-pip virtual
 
-Activate virtual environment using $ source virtual/bin/activate
+2.Activate virtual environment using $ source virtual/bin/activate
 
 Download pip in our environment using $ curl https://bootstrap.pypa.io/get-pip.py | python Create a start.sh file in the root of the folder and add the following code:
 
