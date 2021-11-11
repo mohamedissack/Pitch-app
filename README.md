@@ -29,7 +29,8 @@ $ python3.8 manage.py server
 Technologies Used
 Python3.8
  Flask
-  HTML Bootstrap
+  HTML
+   Bootstrap
 
 Author
 Mohamed Issack
