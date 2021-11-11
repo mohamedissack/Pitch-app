@@ -10,6 +10,7 @@ As a user of the pitch application you will be able to:
 See all blogs Create an account Log in Create a blog Comment on a blog See comments posted on each individual blog Edit your profile i.e will be able to add a short bio about yourself and a profile picture
 
 ## Development
+
 Getting started Prerequisites python3.8 virtual environment pip Cloning In your terminal:
 
 $ git clone https://github.com/mohamedissack/one-minute-pitch.git $ cd pitches Running the Application Install virtual environment using $ python3.8 -m venv --without-pip virtual
