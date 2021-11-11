@@ -32,10 +32,10 @@ Python3.8
  Flask
 
   HTML
-  
+
 Bootstrap
 
-Author
+## Author
 Mohamed Issack
 License
 MIT License
