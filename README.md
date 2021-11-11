@@ -20,7 +20,7 @@ Download pip in our environment using $ curl https://bootstrap.pypa.io/get-pip.p
 
 export MAIL_USERNAME= export MAIL_PASSWORD= export SECRET_KEY= Edit the configuration instance in manage.py by commenting on production instance and uncommenting development instance
 
-To run the application, in your terminal:
+## To run the application, in your terminal:
 
 $ chmod a+x start.sh $ ./start.sh Testing the Application To run the tests for the class file:
 
