@@ -30,8 +30,9 @@ Technologies Used
 Python3.8
 
  Flask
- 
+
   HTML
+  
 Bootstrap
 
 Author
