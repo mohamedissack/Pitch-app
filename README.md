@@ -1,7 +1,7 @@
 ## Title
 one-minute-pitch
 
-Description
+## Description
 An application that allows users to create account and write their pitches on whatever category they like and allows others to comment about their pitches .
 
 Features
