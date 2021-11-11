@@ -29,11 +29,11 @@ $ python3.8 manage.py server
 Technologies Used
 Python3.8
 
- Flask
+Flask
 
 HTML
 
- Bootstrap
+Bootstrap
 
 ## Author
 
