@@ -39,7 +39,7 @@ Bootstrap
 
 Mohamed Issack
 
-License
+## License
 MIT License
 
 Copyright (c) 2021 Mohamed Issack
