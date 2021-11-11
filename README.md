@@ -17,9 +17,9 @@ Getting started Prerequisites python3.8 virtual environment pip Cloning In your 
 
 2.Activate virtual environment using $ source virtual/bin/activate
 
-Download pip in our environment using $ curl https://bootstrap.pypa.io/get-pip.py | python Create a start.sh file in the root of the folder and add the following code:
+3.Download pip in our environment using $ curl https://bootstrap.pypa.io/get-pip.py | python Create a start.sh file in the root of the folder and add the following code:
 
-export MAIL_USERNAME= export MAIL_PASSWORD= export SECRET_KEY= Edit the configuration instance in manage.py by commenting on production instance and uncommenting development instance
+4.export MAIL_USERNAME= export MAIL_PASSWORD= export SECRET_KEY= Edit the configuration instance in manage.py by commenting on production instance and uncommenting development instance
 
 ## To run the application, in your terminal:
 
