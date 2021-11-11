@@ -31,9 +31,9 @@ Python3.8
 
  Flask
 
-  HTML
+HTML
 
-Bootstrap
+ Bootstrap
 
 ## Author
 
