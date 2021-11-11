@@ -4,7 +4,7 @@ one-minute-pitch
 ## Description
 An application that allows users to create account and write their pitches on whatever category they like and allows others to comment about their pitches .
 
-Features
+## Features
 As a user of the pitch application you will be able to:
 
 See all blogs Create an account Log in Create a blog Comment on a blog See comments posted on each individual blog Edit your profile i.e will be able to add a short bio about yourself and a profile picture
